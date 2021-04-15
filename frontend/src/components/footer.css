@@ -1,0 +1,109 @@
+.footer-section {
+    background: #222736;
+	left: 5%;
+	display: flex;
+}
+.footer-section .footer-text {
+	padding: 30px 0 10px;
+}
+.footer-section .footer-text .ft-about .logo img {
+    margin-left: -50px;
+	margin-top: -40px;
+	width: 75%;
+    height: 75%;
+}
+.footer-section .footer-text .ft-about .logo a {
+	display: flex;
+}
+.footer-section .footer-text .ft-about p {
+    color: #aaaab3;
+    margin-bottom: 20px;
+    
+}
+.footer-section .footer-text .ft-about .fa-social a {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	font-size: 16px;
+	line-height: 40px;
+	text-align: center;
+	color: #ffffff;
+	border: 1px solid #5A4D48;
+	border-radius: 50%;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	margin-right: 7px;
+}
+.footer-section .footer-text .ft-about .fa-social a:hover {
+	background: #dfa974;
+	border-color: #dfa974;
+}
+.footer-section .footer-text .ft-contact {
+    margin-bottom: 30px;
+    margin-left: -100px;
+}
+.footer-section .footer-text .ft-contact h6 {
+	font-size: 14px;
+	color: #dfa974;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+	font-family: "Cabin", sans-serif;
+	margin-bottom: 20px;
+}
+.footer-section .footer-text .ft-contact ul li {
+	font-size: 16px;
+	color: #aaaab3;
+	line-height: 32px;
+	list-style: circle;
+	margin-left: 0px;
+}
+.footer-section .footer-text .ft-news h6 {
+	font-size: 14px;
+	color: #dfa974;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+	font-family: "Cabin", sans-serif;
+	margin-bottom: 20px;
+}
+.footer-section .footer-text .ft-news p {
+	color: #aaaab3;
+	margin-bottom: 20px;
+}
+.footer-section .footer-text .ft-news .fn-form {
+	position: relative;
+}
+.footer-section .footer-text .ft-news .fn-form input {
+	width: 70%;
+	height: 40px;
+	border-radius: 2px;
+	background: #393D4A;
+	border: none;
+	padding-left: 20px;
+	font-size: 16px;
+	color: #707079;
+}
+.footer-section .footer-text .ft-news .fn-form button {
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 16px;
+	background: #dfa974;
+	color: #ffffff;
+	padding: 0 16px;
+	height: 50px;
+	border: none;
+	border-radius: 0 2px 2px 0;
+}
+.footer-icon{
+	padding: 3px;
+	padding-top: 6px ;
+	font-size: 35px;
+}
+#icon_send{
+	font-size: 40px;
+	border: none;
+	background-color: #cd9042; 
+}
