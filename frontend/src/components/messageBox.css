@@ -1,0 +1,18 @@
+.alert{
+    padding: 1 rem;
+    border: 0.1rem solid transparent;
+    border: 0.5rem;
+    display: flex;
+}
+.alert-info{
+    color: #2020a0;
+    background-color: #e0e0ff;
+}
+.alert-error{
+    color: #a02020;
+    background-color: #ffe0e0e0;
+}
+
+.error{
+    display: flex;
+  }
